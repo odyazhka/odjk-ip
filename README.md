@@ -10,3 +10,7 @@ ukfdysq экран выводит ```ip link```
 <img width="494" height="497" alt="изображение" src="https://github.com/user-attachments/assets/a129f4f5-f25c-46d0-8161-be3a1f35bcce" />
 
 нажатие на кнопку делает ```sudo ip up``` или ```sudo ip down```
+
+динамически определяет беспроводную сеть и предлагает открыть odjk-wifi. скачать его можно тут:
+
+https://github.com/odyazhka/odjk-wifi
